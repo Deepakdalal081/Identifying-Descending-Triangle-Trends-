@@ -1,4 +1,4 @@
-##**🔎 Detecting Stock Patterns with Python – Your Guide to Identifying Descending Triangle Trends 📈** <br />
+**🔎 Detecting Stock Patterns with Python – Your Guide to Identifying Descending Triangle Trends 📈** <br />
 
 ##
 Descending Triangle Patterns, a key indicator for potential breakout points. With over 90+ Nifty stocks analyzed,<br />
