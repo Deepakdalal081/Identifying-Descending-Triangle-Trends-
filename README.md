@@ -3,7 +3,7 @@
 ##
 Descending Triangle Patterns, a key indicator for potential breakout points. With over 90+ Nifty stocks analyzed,<br />
 this script provides you the tools to visualize, analyze, and act on market insights.<br />
-
+##
 
 ![image](https://github.com/user-attachments/assets/465cf24e-0e28-477d-b34a-574a84d6ecb9)
 
